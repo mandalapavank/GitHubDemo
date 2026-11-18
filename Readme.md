@@ -1,4 +1,4 @@
-# DataArt Performance Testing
+# Performance Testing Interview
 
 JMeter Performance Testing Repository
 
